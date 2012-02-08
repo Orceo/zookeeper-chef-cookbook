@@ -1,4 +1,4 @@
-# Neo4J Server Chef Cookbook
+# ZooKeeper Chef Cookbook
 
 This is a lightweight OpsCode Chef cookbook for Apache ZooKeeper that supports
 Ubuntu and Debian.
